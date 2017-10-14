@@ -1,0 +1,5 @@
+## [1.0]
+BETA Test
+Initial release of the addon [DATED 14/10/17]
+
+Limited Sections ~ 1.0

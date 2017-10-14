@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.ILoveSlam" name="Metalhead" version="1.0" provider-name="ILoveSlam">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Metalhead">
+            <info compressed="false">https://github.com/ILoveSlam97/SlamBeta/addons.xml</info>
+            <checksum>https://github.com/ILoveSlam97/SlamBeta/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/ILoveSlam97</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>For fans of the good stuff</summary>
+            <description>A new addon full of things metal!</description>
+            <platform>all</platform>
+    </extension>
+</addon>
